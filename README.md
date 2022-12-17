@@ -55,6 +55,10 @@ I Guess This Will Be Usefull For Many People.....😇.
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
 
+<a href="https://render.com/deploy?repo=https://github.com/priyanshu40/File-Sharing-Bot">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/CodeXBotz/File-Sharing-Bot
@@ -143,6 +147,4 @@ published by the Free Software Foundation, either version 3 of the License, or
 
    **Star this Repo if you Liked it ⭐⭐⭐**
 
-<a href="https://render.com/deploy?repo=https://github.com/priyanshu40/File-Sharing-Bot">
-  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a>
+
